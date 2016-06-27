@@ -1,0 +1,8 @@
+[
+  {
+    "remote": "github",
+    "repository": "CyanogenMod/android_external_stlport",
+    "target_path": "external/stlport",
+    "revision": "cm-13.0"
+  }
+]
